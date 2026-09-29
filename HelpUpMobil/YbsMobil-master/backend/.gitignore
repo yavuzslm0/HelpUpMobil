@@ -1,0 +1,15 @@
+# Bağımlılıklar
+node_modules/
+
+# Ortam değişkenleri (hassas bilgiler)
+.env
+.env*.local
+
+# Loglar
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# macOS
+.DS_Store

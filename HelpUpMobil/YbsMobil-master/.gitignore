@@ -1,0 +1,9 @@
+# Kök gitignore - her iki alt projeyi kapsar
+node_modules/
+.DS_Store
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.env
+.env*.local
